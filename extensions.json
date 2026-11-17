@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "ollama.ollama",
+        "vizards.deepseek-v4-for-copilot"
+    ]
+}
